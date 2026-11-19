@@ -1,5 +1,9 @@
 # github-core-clone-01
 
+[![make.fun competition](https://make.fun/badge/github-core-clone-01.svg)](https://make.fun/bounty/github-core-clone-01)
+[![rank](https://make.fun/badge/github-core-clone-01/jianigma/github-core-clone-01/rank.svg)](https://make.fun/bounty/github-core-clone-01)
+[![reward](https://make.fun/badge/github-core-clone-01/jianigma/github-core-clone-01/reward.svg)](https://make.fun/bounty/github-core-clone-01)
+
 A GitHub-compatible git forge in a single Node process, no dependencies: git
 smart HTTP, REST v3, GraphQL v4 and an MCP endpoint on one in-memory store.
 Built for [the contest](https://make.fun/bounty/github-core-clone-01).
